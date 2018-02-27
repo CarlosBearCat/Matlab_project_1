@@ -1,0 +1,4 @@
+The hotdog with the most calories is : meat 158.71 calories. 
+The hotdog with the least calories is : poultry 118.76 caloies. 
+The hotdog with the most sodium is: poultry 459.00 sodium. 
+The hotdog with the least sodium is: beef 401.15 sodium. 
